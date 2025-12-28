@@ -1,16 +1,32 @@
-## Hi there 👋
+```text
+██╗  ██╗███████╗██╗     ██╗      ██████╗ 
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████║█████╗  ██║     ██║     ██║   ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
 
-<!--
-**madanlalit/madanlalit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   >_ SYSTEM OVERRIDE // INITIATED
+   >_ ESTABLISHING UPLINK... [CONNECTED]
 
-Here are some ideas to get you started:
+   ┌────────────────────────────────────────────────────────┐
+   │                                                        │
+   │           "Specialization is for insects."             │
+   │                                                        │
+   └────────────────────────────────────────────────────────┘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    // 01_IDENTITY
+    Name      :  Lalit Madan
+    Archetype :  Jack of All Trades
+    Base      :  Remote
+    
+    // 02_ARSENAL
+    Languages :  [ PY ] [ JS ] [ TS ]
+    Frameworks:  [ FastAPI ] [ Pytest ] [ LangChain ]
+    Platform  :  [ Linux ] [ Docker ] [ K8s ]
+
+    // 04_TRANSMISSION
+    [Linkedin] linkedin.com/in/madanlalit
+    [X] x.com/lalitmadan
+    _
+```
