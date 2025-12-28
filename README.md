@@ -1,5 +1,20 @@
-Hi, I'm Lalit Madan
+```python
+from typing import List
 
-I'm a 27 year old developer from Nagpur, currently building cool things remotely.
+class LalitMadan(SoftwareEngineer):
+    """
+    Building scalable data systems and clean APIs.
+    """
+    
+    location: str = "Remote"
+    available_for_hire: bool = True
+    
+    stack: List[str] = [
+        "Python", "FastAPI", "Langchain",
+        "Docker", "AWS"
+    ]
 
-[View my portfolio ↗](https://lalitmadan.com)
+    def connect(self) -> None:
+        """Reach out to me"""
+        github = "github.com/yourusername"
+        twitter = "twitter.com/yourusername"
