@@ -1,24 +1,5 @@
-```text
+Hi, I'm Lalit Madan
 
-   >_ SYSTEM OVERRIDE // INITIATED
-   >_ ESTABLISHING UPLINK... [CONNECTED]
+I'm a 27 year old developer from Nagpur, currently building cool things remotely.
 
-   ┌────────────────────────────────────────────────────────┐
-   │           "Specialization is for insects."             │
-   └────────────────────────────────────────────────────────┘
-
-    // 01_IDENTITY
-    Name      :  Lalit Madan
-    Archetype :  Jack of All Trades
-    Base      :  Remote
-    
-    // 02_ARSENAL
-    Languages :  [ PY ] [ JS ] [ TS ]
-    Frameworks:  [ FastAPI ] [ Pytest ] [ LangChain ]
-    Platform  :  [ Linux ] [ Docker ] [ K8s ]
-
-    // 04_TRANSMISSION
-    [Linkedin] linkedin.com/in/madanlalit
-    [X] x.com/lalitmadan
-    _
-```
+[View my portfolio ↗](https://lalitmadan.com)
