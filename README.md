@@ -10,9 +10,9 @@ Builds:
 Recent writing:
 
 <!-- latest-posts:start -->
+[Cost per Task: The New North Star for AI Engineering](https://lalitmadan.com/post/cost-per-task-ai-engineering-north-star/)  
 [The Invoice Shock: How Enterprises Burn Millions on Blind AI Adoption (And a Lean Roadmap to Get It Right)](https://lalitmadan.com/post/enterprise-ai-adoption-roadmap/)  
 [Stop Building Human First CLIs: Why Your Tools Are Breaking AI Agents](https://lalitmadan.com/post/revisiting-cli-tools-for-ai-agents/)  
-[Agent Skills Guide: The Complete SKILL.md Playbook](https://lalitmadan.com/post/the-skill-md-guide/)  
 <!-- latest-posts:end -->
 
 More at [lalitmadan.com](https://lalitmadan.com)
